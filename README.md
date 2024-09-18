@@ -11,6 +11,9 @@ The project was developed using pure JavaScript, EJS as a template engine, CSS f
 - [x] The list is updated dynamically without reloading the page.
 - [x] If the value entered is invalid, an error message is displayed.
 
+## Demo
+You can see the project in action here: https://dynamic-item-generator.vercel.app/
+
 
 ## 🛠 Technologies Used
 
